@@ -1,0 +1,88 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 13, ../sass/screen.scss */
+.dark-bkg {
+  background: #262626;
+  color: #f2f2f2;
+}
+
+/* line 18, ../sass/screen.scss */
+.full-slide p {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+}
+
+/* line 27, ../sass/screen.scss */
+.full-slide {
+  position: relative;
+}
+/* line 30, ../sass/screen.scss */
+.full-slide div {
+  height: 100%;
+}
+/* line 34, ../sass/screen.scss */
+.full-slide p {
+  font-size: 1.6rem;
+  letter-spacing: 0.3rem;
+  width: 70%;
+  font-weight: 100;
+  margin: 0 auto;
+}
+/* line 43, ../sass/screen.scss */
+.full-slide .video-slide-controls {
+  opacity: 0;
+  background: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  transition: opacity 0.2s;
+}
+
+/* line 55, ../sass/screen.scss */
+.full-slide.video-done .video-slide-controls {
+  opacity: 1;
+}
+
+/* line 60, ../sass/screen.scss */
+.video-slide {
+  opacity: 0;
+}
+
+/* line 65, ../sass/screen.scss */
+.row .next-button {
+  border: 2px solid #f2f2f2;
+  padding: 1rem 2rem;
+  color: #fff;
+  letter-spacing: 0.3rem;
+  position: absolute;
+  bottom: 5%;
+  -webkit-transform: translateX(-50%);
+}
+
+/* line 77, ../sass/screen.scss */
+.video-slide-controls .button-container {
+  position: absolute;
+  top: 50%;
+  right: 10%;
+  margin: 0 auto;
+}
+/* line 84, ../sass/screen.scss */
+.video-slide-controls .next-button {
+  border: 2px solid #f2f2f2;
+  padding: 1rem 2rem;
+  color: #fff;
+  letter-spacing: 0.3rem;
+}
+
+/* line 92, ../sass/screen.scss */
+.next-button:hover, .next-button:focus, .next-button:active {
+  color: #262626;
+  background: #f2f2f2;
+}
