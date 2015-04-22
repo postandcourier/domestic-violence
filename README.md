@@ -11,3 +11,5 @@ CIR also helped form a consortium with The Post and Courier, WCIV-TV and the Uni
 Data and code is subject to the [Post and Courier Standard Licence](https://github.com/postandcourier/PC-Standard-License).
 
 Text content, photos, and videos are subject to copyright restrictions and are available for personal and academic use only. This content may not be reproduced without permission.
+
+Third-party content included in this repo may be subject to other licensing restrictions.
