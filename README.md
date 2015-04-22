@@ -11,8 +11,8 @@ CIR also helped form a consortium with The Post and Courier, WCIV-TV and the Uni
 
 In 2015, The Post and Courier was [awarded the Pulitzer prize for public service](http://www.pulitzer.org/citation/2015-Public-Service) for this series.
 
-###Licence
-Data and code is subject to the [Post and Courier Standard Licence](https://github.com/postandcourier/PC-Standard-License).
+###License
+Data and code is subject to the [Post and Courier Standard License](https://github.com/postandcourier/PC-Standard-License).
 
 Text content, photos, and videos are property of The Post and Courier and are made available for personal and academic use only. This content may not be reproduced without permission.
 
