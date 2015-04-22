@@ -7,6 +7,10 @@ This project is the result of an eight-month investigation by the Post and Couri
 
 CIR also helped form a consortium with The Post and Courier, WCIV-TV and the University of South Carolina to bring the results of this investigation to a larger audience. University of South Carolina students Isabelle Khurshudyan and Sarah Ellis helped the newspaper and its partners with data research.
 
+####Pulitzer Award
+
+In 2015, The Post and Courier was [awarded the Pulitzer prize for public service](http://www.pulitzer.org/citation/2015-Public-Service) for this series.
+
 ###Licence
 Data and code is subject to the [Post and Courier Standard Licence](https://github.com/postandcourier/PC-Standard-License).
 
