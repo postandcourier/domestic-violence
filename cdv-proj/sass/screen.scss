@@ -82,6 +82,12 @@ $xxlarge-only: "#{$screen} and (min-width:#{lower-bound($xxlarge-range)}) and (m
   }
 }
 
+.top-bar .name h1 a {
+  display: inline;
+  text-shadow: none;
+  color: #222;
+}
+
 .top-bar-section{
   li.active:not(.has-form) a:not(.button) {
     background: $cdvteal;
